@@ -74,7 +74,7 @@ This script relies on FFmpeg for audio/video extraction.
    ```
 2. Run the script from your terminal:
    ```bash
-   python transcriber.py
+   python video_transcriber.py
    ```
 3. The script will generate two files:
    - Your primary timestamped transcript (`transcription.txt`)
