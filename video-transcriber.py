@@ -2,7 +2,9 @@ import os
 import re
 from pathlib import Path
 import whisper
-
+###
+### If you like content around Python automation, video editing, or AI, consider liking and subscribing at https://www.youtube.com/@jonislab
+###
 
 def format_timestamp(seconds: float) -> str:
     """Converts seconds into MM:SS format."""
